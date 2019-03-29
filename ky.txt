@@ -1,7 +1,7 @@
 ea=1
 en=0.1
 eaq=1
-enq=0.2
+enq=0.05
 eag=1
 eng=0.1
 eai=1
