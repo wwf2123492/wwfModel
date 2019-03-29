@@ -1,0 +1,10 @@
+ea=1
+en=0.2
+eaq=1
+enq=0.01
+eag=1
+eng=0.03
+eai=1
+eni=0.04
+enc=3
+canav=1.5

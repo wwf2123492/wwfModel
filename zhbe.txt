@@ -1,0 +1,12 @@
+ea=1
+en=0.3
+eaq=1
+enq=0.08
+eag=1
+eng=0.1
+eai=1
+eni=0.04
+enc=3
+canav=1.3
+enSpVer=2.5
+idSS=11
