@@ -1,9 +1,9 @@
 ea=1
 en=0.3
 eaq=1
-enq=0.05
+enq=0.06
 eag=1
-eng=0.8
+eng=0.1
 eai=1
 eni=0.04
 enc=3
